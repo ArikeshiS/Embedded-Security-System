@@ -9,7 +9,7 @@ The simulation has been performed on Proteus.
 
 
 The user should enter the Five-Digit password through the keypad. Upon pressing each key on the keypad, an * is displayed on the first row of the LCD to provide feedback to the user that the key has been pressed while maintaining the user privacy. 
-After five keystrokes, the message “Correct” or “Incorrect” should be displayed on the second row of the LCD. 
+After five keystrokes, the message “Correct” or “Incorrect” is displayed on the second row of the LCD. 
 If the password is correct, then the motor starts rotating, indicating that the lock is opening.
 If the password is incorrect, the buzzer gets activated to indicate an incorrect attempt.
 
