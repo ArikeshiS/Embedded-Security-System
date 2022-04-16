@@ -1,7 +1,6 @@
 # Embedded-Security-System
-###### An embedded security system to store the valuable belongings of the user.
--
-###### The simulation has been performed on Proteus.
+An embedded security system to store the valuable belongings of the user.
+The simulation has been performed on Proteus.
 ### The security system components:
 * Keypad – 4x4 numeric keypad – For accepting password from the user
 * LCD – 16x2 LCD – For displaying visual messages to the user
@@ -14,4 +13,6 @@ After five keystrokes, the message “Correct” or “Incorrect” should be di
 If the password is correct, then the motor starts rotating, indicating that the lock is opening.
 If the password is incorrect, the buzzer gets activated to indicate an incorrect attempt.
 
-> :warning: Alarm sound is loud and irritating. 
+> :warning: Alarm sound is loud and irritating.
+
+> :video_camera: Demo Video: [LINK](https://drive.google.com/file/d/1SouP0D7rkp2G0jkRpO4OmVObkG_Pmuqq/view?classId=1381a2ef-5ceb-4d72-89cd-35a9aa94d790&assignmentId=ccdd4395-c2f7-4d23-a8ad-3030e885f97e&submissionId=b75dd3ee-5c33-28a3-6f39-6a96883de093)
