@@ -2,7 +2,7 @@
 An embedded security system to store the valuable belongings of the user.
 The simulation has been performed on Proteus.
 ### The security system components:
-* Keypad – 4x4 numeric keypad – For accepting password from the user
+* Keypad – For accepting password from the user
 * LCD – 16x2 LCD – For displaying visual messages to the user
 * Motor – DC Motor – For opening the door of the security system
 * Alarm – For providing incorrect password alert
