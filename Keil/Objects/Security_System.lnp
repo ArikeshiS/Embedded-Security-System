@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\Security_System" 
+PRINT(".\Listings\Security_System.m51")
